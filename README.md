@@ -42,20 +42,15 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vivekstackdev\&show_icons=true\&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=vivekstackdev\&theme=tokyonight)
+## 🚀 Core Expertise
 
----
+* High-concurrency backend systems
+* Event-driven architecture (Redis, BullMQ, Kafka)
+* Microservices & distributed systems
+* Real-time communication (WebSockets, WebRTC)
+* Performance optimization & caching strategies
 
-## 🎯 Current Focus
-
-* Scaling backend to **10k–50k concurrent users**
-* Event-driven microservices
-* Kafka in production systems
-
----
 
 ## 💡 Philosophy
 
