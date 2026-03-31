@@ -1,23 +1,24 @@
 # 👋 Hey, I'm Vivek
 
-⚡ Backend Engineer | Real-time Systems | High-Concurrency Architect
-🚀 Building scalable apps (payments, chat, queues, live systems)
+⚡ Full-Stack Engineer (Backend-focused) | Real-time Systems | High-Concurrency Architect
+🚀 Building scalable **web, mobile & backend systems** (payments, chat, queues, live apps)
 
 ---
 
 ## 🧠 About Me
 
 * ⚡ Designing **high-concurrency systems (10k+ users)**
-* 🔄 Event-driven systems (Redis, BullMQ, Kafka concepts)
-* 📡 Real-time apps (WebRTC, Socket.IO)
-* 💰 Payments, wallets & backend systems
-* 🧱 Moving towards microservices
+* 🔄 Building **event-driven architectures** (Redis, BullMQ, Kafka)
+* 📡 Developing **real-time apps** (WebRTC, Socket.IO)
+* 💰 Implementing **payments, wallets & secure APIs**
+* 📱 Creating **full-stack apps (React, Next.js, React Native - Android & iOS)**
+* 🧱 Moving towards **microservices & distributed systems**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🚀 Backend & Systems
+### 🚀 Backend & Systems (Core)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql\&logoColor=white)
@@ -25,11 +26,16 @@
 ![BullMQ](https://img.shields.io/badge/BullMQ-Queue-blue)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?logo=apachekafka)
 
-### 📱 Frontend & Realtime
+### 📱 Frontend & Mobile
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react\&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple)
+
+### 📡 Real-time & Streaming
+
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?logo=socket.io)
 
@@ -42,18 +48,19 @@
 
 ---
 
-
 ## 🚀 Core Expertise
 
-* High-concurrency backend systems
-* Event-driven architecture (Redis, BullMQ, Kafka)
-* Microservices & distributed systems
-* Real-time communication (WebSockets, WebRTC)
-* Performance optimization & caching strategies
+* ⚡ Full-stack system development (**web + mobile + backend**)
+* 🧠 High-concurrency backend systems & scaling
+* 🔄 Event-driven architecture (Redis, BullMQ, Kafka)
+* 📡 Real-time communication (WebSockets, WebRTC)
+* 🧱 Microservices & distributed systems
+* 🚀 Performance optimization, caching & queue processing
 
+---
 
 ## 💡 Philosophy
 
-> Build systems that scale, not just apps.
+> Build complete systems — from UI to backend — that scale in real-world conditions.
 
-⭐ Follow for backend + system design content
+⭐ Follow for full-stack + system design content
